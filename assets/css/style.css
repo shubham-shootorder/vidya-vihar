@@ -799,7 +799,7 @@ p {
 .property-wrapper {
   background-color: #f3f3f3;
   margin-bottom: 20px;
-  padding: 15px;
+  /* padding: 15px; */
 }
 .property-wrapper .property {
   background-color: #fff;
